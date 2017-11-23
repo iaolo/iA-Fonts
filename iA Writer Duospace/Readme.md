@@ -7,3 +7,5 @@ The source is [here](https://github.com/IBM/type)
 
 As required by IBM, we named it differently. 
 Please read the licensing file before working with it. 
+
+If you fork or reuse our version, please reference us, too.
