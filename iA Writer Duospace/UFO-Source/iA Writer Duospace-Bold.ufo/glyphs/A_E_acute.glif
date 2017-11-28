@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEacute" format="1">
+  <advance width="600"/>
+  <unicode hex="01FC"/>
+  <outline>
+    <contour>
+      <point x="380" y="740" type="line"/>
+      <point x="514" y="916" type="line"/>
+      <point x="391" y="977" type="line"/>
+      <point x="292" y="783" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="168" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="572" y="111" type="line"/>
+      <point x="417" y="111" type="line"/>
+      <point x="417" y="298" type="line"/>
+      <point x="562" y="298" type="line"/>
+      <point x="562" y="409" type="line"/>
+      <point x="417" y="409" type="line"/>
+      <point x="417" y="587" type="line"/>
+      <point x="572" y="587" type="line"/>
+      <point x="572" y="698" type="line"/>
+      <point x="155" y="698" type="line"/>
+      <point x="-4" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="175" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="594" type="line"/>
+      <point x="279" y="594" type="line"/>
+      <point x="279" y="279" type="line"/>
+      <point x="197" y="279" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-17 09:27:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>
