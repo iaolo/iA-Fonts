@@ -4,17 +4,17 @@
   <unicode hex="0323"/>
   <outline>
     <contour>
-      <point x="0" y="-203" type="curve" smooth="yes"/>
+      <point x="0" y="-203" type="curve"/>
       <point x="59" y="-203"/>
       <point x="81" y="-176"/>
-      <point x="81" y="-141" type="curve" smooth="yes"/>
+      <point x="81" y="-141" type="curve"/>
       <point x="81" y="-115" type="line" smooth="yes"/>
       <point x="81" y="-79"/>
       <point x="59" y="-52"/>
-      <point x="0" y="-52" type="curve" smooth="yes"/>
+      <point x="0" y="-52" type="curve"/>
       <point x="-59" y="-52"/>
       <point x="-81" y="-79"/>
-      <point x="-81" y="-115" type="curve" smooth="yes"/>
+      <point x="-81" y="-115" type="curve"/>
       <point x="-81" y="-141" type="line" smooth="yes"/>
       <point x="-81" y="-176"/>
       <point x="-59" y="-203"/>

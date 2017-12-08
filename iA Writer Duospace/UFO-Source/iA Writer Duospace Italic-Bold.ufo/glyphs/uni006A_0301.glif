@@ -3,16 +3,16 @@
   <advance width="600"/>
   <outline>
     <contour>
+      <point x="342" y="616" type="line"/>
       <point x="428" y="570" type="line"/>
       <point x="571" y="746" type="line"/>
       <point x="457" y="806" type="line"/>
-      <point x="342" y="616" type="line"/>
     </contour>
     <contour>
-      <point x="216" y="-212" type="curve" smooth="yes"/>
+      <point x="216" y="-212" type="curve"/>
       <point x="312" y="-212"/>
       <point x="365" y="-162"/>
-      <point x="386" y="-37" type="curve" smooth="yes"/>
+      <point x="386" y="-37" type="curve"/>
       <point x="478" y="516" type="line"/>
       <point x="143" y="516" type="line"/>
       <point x="124" y="402" type="line"/>

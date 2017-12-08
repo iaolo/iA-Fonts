@@ -4,6 +4,7 @@
   <unicode hex="005B"/>
   <outline>
     <contour>
+      <point x="310" y="760" type="line"/>
       <point x="160" y="-138" type="line"/>
       <point x="436" y="-138" type="line"/>
       <point x="446" y="-77" type="line"/>
@@ -11,7 +12,6 @@
       <point x="367" y="699" type="line"/>
       <point x="576" y="699" type="line"/>
       <point x="586" y="760" type="line"/>
-      <point x="310" y="760" type="line"/>
     </contour>
   </outline>
   <lib>

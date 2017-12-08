@@ -6,19 +6,19 @@
   </note>
   <outline>
     <contour>
+      <point x="135" y="734" type="line"/>
       <point x="179" y="708" type="line"/>
       <point x="308" y="863" type="line"/>
       <point x="243" y="900" type="line"/>
-      <point x="135" y="734" type="line"/>
     </contour>
     <contour>
+      <point x="174" y="608" type="line"/>
       <point x="87" y="755" type="line"/>
       <point x="-11" y="755" type="line"/>
       <point x="-144" y="614" type="line"/>
       <point x="-105" y="581" type="line"/>
       <point x="32" y="698" type="line"/>
       <point x="128" y="581" type="line"/>
-      <point x="174" y="608" type="line"/>
     </contour>
   </outline>
   <lib>

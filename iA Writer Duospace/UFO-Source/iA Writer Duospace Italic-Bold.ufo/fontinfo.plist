@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-220</integer>
 	<key>familyName</key>
-	<string>iA Writer Duospace Italic</string>
+	<string>iA Writer Duospace</string>
 	<key>italicAngle</key>
 	<real>-9.5</real>
 	<key>openTypeHeadCreated</key>
@@ -29,7 +29,7 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://www.boldmonday.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>iA Writer Duospace Italic</string>
+	<string>iA Writer Duospace</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>BoldItalic</string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -92,7 +92,7 @@
 		<integer>752</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>iAWriterDuospaceItalic-BoldItalic</string>
+	<string>iAWriterDuospace-BoldItalic</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-212</integer>
@@ -120,7 +120,7 @@
 	<key>postscriptUnderlineThickness</key>
 	<integer>100</integer>
 	<key>styleMapFamilyName</key>
-	<string>iA Writer Duospace Italic Bold</string>
+	<string>iA Writer Duospace Bold</string>
 	<key>styleMapStyleName</key>
 	<string>italic</string>
 	<key>styleName</key>
