@@ -4,13 +4,13 @@
   <unicode hex="0174"/>
   <outline>
     <contour>
-      <point x="641" y="797" type="line"/>
-      <point x="509" y="956" type="line"/>
       <point x="385" y="956" type="line"/>
       <point x="253" y="797" type="line"/>
       <point x="324" y="739" type="line"/>
       <point x="445" y="854" type="line"/>
       <point x="566" y="739" type="line"/>
+      <point x="641" y="797" type="line"/>
+      <point x="509" y="956" type="line"/>
     </contour>
     <component base="W"/>
   </outline>
