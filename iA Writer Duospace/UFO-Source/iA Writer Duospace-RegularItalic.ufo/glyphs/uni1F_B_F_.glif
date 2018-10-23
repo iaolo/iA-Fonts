@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FBF" format="1">
+  <advance width="600"/>
+  <unicode hex="1FBF"/>
+  <outline>
+    <contour>
+      <point x="296" y="645" type="qcurve"/>
+      <point x="296" y="604" type="line"/>
+      <point x="361" y="611"/>
+      <point x="417" y="677"/>
+      <point x="417" y="735" type="qcurve"/>
+      <point x="417" y="762"/>
+      <point x="387" y="800"/>
+      <point x="361" y="800" type="qcurve"/>
+      <point x="337" y="800"/>
+      <point x="304" y="776"/>
+      <point x="304" y="747" type="qcurve"/>
+      <point x="304" y="721"/>
+      <point x="337" y="695"/>
+      <point x="361" y="695" type="qcurve"/>
+      <point x="361" y="677"/>
+      <point x="334" y="647"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 07:05:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

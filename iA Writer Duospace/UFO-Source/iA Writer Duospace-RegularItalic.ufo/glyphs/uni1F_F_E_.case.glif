@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FFE.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="uni1FFE" xOffset="-360"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 07:21:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

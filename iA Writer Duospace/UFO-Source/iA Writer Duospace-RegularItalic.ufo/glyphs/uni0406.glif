@@ -7,6 +7,8 @@
   </note>
   <outline>
     <contour>
+      <point x="52" y="66" type="line"/>
+      <point x="41" y="0" type="line"/>
       <point x="473" y="0" type="line"/>
       <point x="484" y="66" type="line"/>
       <point x="309" y="66" type="line"/>
@@ -17,8 +19,6 @@
       <point x="147" y="632" type="line"/>
       <point x="322" y="632" type="line"/>
       <point x="227" y="66" type="line"/>
-      <point x="52" y="66" type="line"/>
-      <point x="41" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F68" format="1">
+  <advance width="600"/>
+  <unicode hex="1F68"/>
+  <outline>
+    <component base="uni2126"/>
+    <component base="uni1FBF.case"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FBF.case</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 07:25:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

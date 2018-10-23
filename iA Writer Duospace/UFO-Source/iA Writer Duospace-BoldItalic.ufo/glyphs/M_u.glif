@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mu" format="1">
+  <advance width="900"/>
+  <unicode hex="039C"/>
+  <note>
+    Mu
+  </note>
+  <outline>
+    <component base="M"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:33:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

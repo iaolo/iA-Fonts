@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni037A" format="1">
+  <advance width="600"/>
+  <unicode hex="037A"/>
+  <outline>
+    <contour>
+      <point x="216" y="-152" type="qcurve"/>
+      <point x="216" y="-68" type="line"/>
+      <point x="96" y="-68" type="line"/>
+      <point x="96" y="-168" type="line" smooth="yes"/>
+      <point x="96" y="-247"/>
+      <point x="165" y="-322"/>
+      <point x="223" y="-322" type="qcurve"/>
+      <point x="255" y="-322"/>
+      <point x="309" y="-311"/>
+      <point x="322" y="-308" type="qcurve"/>
+      <point x="322" y="-214" type="line"/>
+      <point x="311" y="-215"/>
+      <point x="282" y="-221"/>
+      <point x="267" y="-221" type="qcurve"/>
+      <point x="216" y="-221"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-22 23:54:07 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

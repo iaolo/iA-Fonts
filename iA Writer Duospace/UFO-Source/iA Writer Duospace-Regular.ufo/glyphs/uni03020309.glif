@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03020309" format="1">
+  <advance width="0"/>
+  <note>
+    circumflexhook
+  </note>
+  <outline>
+    <contour>
+      <point x="162" y="894" type="curve"/>
+      <point x="53" y="894" type="line"/>
+      <point x="53" y="833" type="line"/>
+      <point x="171" y="833" type="line"/>
+      <point x="113" y="729" type="line"/>
+      <point x="159" y="706" type="line"/>
+      <point x="183" y="736" type="line" smooth="yes"/>
+      <point x="214" y="775"/>
+      <point x="232" y="810"/>
+      <point x="232" y="839" type="curve"/>
+      <point x="232" y="869"/>
+      <point x="213" y="894"/>
+    </contour>
+    <contour>
+      <point x="160" y="611" type="line"/>
+      <point x="50" y="755" type="line"/>
+      <point x="-50" y="755" type="line"/>
+      <point x="-160" y="611" type="line"/>
+      <point x="-118" y="581" type="line"/>
+      <point x="-1" y="700" type="line"/>
+      <point x="116" y="581" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-17 09:27:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta" format="1">
+  <advance width="600"/>
+  <unicode hex="03B4"/>
+  <note>
+    delta
+  </note>
+  <outline>
+    <contour>
+      <point x="268" y="677" type="line"/>
+      <point x="351" y="672" type="line"/>
+      <point x="556" y="672" type="line"/>
+      <point x="570" y="740" type="line"/>
+      <point x="213" y="740" type="line"/>
+      <point x="196" y="651" type="line"/>
+      <point x="321" y="531" type="line"/>
+      <point x="324" y="527"/>
+      <point x="328" y="524"/>
+      <point x="331" y="521" type="curve"/>
+      <point x="330" y="516" type="line"/>
+      <point x="172" y="516"/>
+      <point x="59" y="367"/>
+      <point x="59" y="200" type="curve"/>
+      <point x="59" y="60"/>
+      <point x="137" y="-12"/>
+      <point x="245" y="-12" type="curve"/>
+      <point x="401" y="-12"/>
+      <point x="511" y="141"/>
+      <point x="511" y="320" type="curve"/>
+      <point x="511" y="422"/>
+      <point x="474" y="486"/>
+      <point x="370" y="580" type="curve"/>
+      <point x="267" y="673" type="line"/>
+    </contour>
+    <contour>
+      <point x="433" y="331" type="curve"/>
+      <point x="433" y="303"/>
+      <point x="424" y="250"/>
+      <point x="411" y="201" type="curve"/>
+      <point x="387" y="112"/>
+      <point x="329" y="57"/>
+      <point x="255" y="57" type="curve"/>
+      <point x="177" y="57"/>
+      <point x="135" y="106"/>
+      <point x="135" y="178" type="curve"/>
+      <point x="135" y="196"/>
+      <point x="141" y="235"/>
+      <point x="152" y="283" type="curve"/>
+      <point x="178" y="397"/>
+      <point x="255" y="476"/>
+      <point x="364" y="488" type="curve"/>
+      <point x="417" y="429"/>
+      <point x="433" y="387"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:17:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="1">
+  <advance width="600"/>
+  <unicode hex="039B"/>
+  <note>
+    Lambda
+  </note>
+  <outline>
+    <contour>
+      <point x="537" y="0" type="line"/>
+      <point x="448" y="698" type="line"/>
+      <point x="341" y="698" type="line"/>
+      <point x="-27" y="0" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="239" y="350" type="line"/>
+      <point x="377" y="621" type="line"/>
+      <point x="382" y="621" type="line"/>
+      <point x="414" y="350" type="line"/>
+      <point x="454" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:48:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

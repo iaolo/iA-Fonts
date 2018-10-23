@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03020301.ccmp0" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="105" y="905" type="line"/>
+      <point x="154" y="882" type="line"/>
+      <point x="260" y="1041" type="line"/>
+      <point x="190" y="1075" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="781" type="line"/>
+      <point x="50" y="925" type="line"/>
+      <point x="-50" y="925" type="line"/>
+      <point x="-160" y="781" type="line"/>
+      <point x="-118" y="751" type="line"/>
+      <point x="-1" y="870" type="line"/>
+      <point x="116" y="751" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-17 09:27:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -7,36 +7,36 @@
   </note>
   <outline>
     <contour>
+      <point x="340" y="600" type="curve"/>
       <point x="400" y="600"/>
       <point x="420" y="628"/>
-      <point x="420" y="663" type="curve" smooth="yes"/>
+      <point x="420" y="663" type="curve"/>
       <point x="420" y="688" type="line" smooth="yes"/>
       <point x="420" y="723"/>
       <point x="400" y="751"/>
-      <point x="340" y="751" type="curve" smooth="yes"/>
+      <point x="340" y="751" type="curve"/>
       <point x="280" y="751"/>
       <point x="260" y="723"/>
-      <point x="260" y="688" type="curve" smooth="yes"/>
+      <point x="260" y="688" type="curve"/>
       <point x="260" y="663" type="line" smooth="yes"/>
       <point x="260" y="628"/>
       <point x="280" y="600"/>
-      <point x="340" y="600" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="560" y="600" type="curve"/>
       <point x="620" y="600"/>
       <point x="640" y="628"/>
-      <point x="640" y="663" type="curve" smooth="yes"/>
+      <point x="640" y="663" type="curve"/>
       <point x="640" y="688" type="line" smooth="yes"/>
       <point x="640" y="723"/>
       <point x="620" y="751"/>
-      <point x="560" y="751" type="curve" smooth="yes"/>
+      <point x="560" y="751" type="curve"/>
       <point x="500" y="751"/>
       <point x="480" y="723"/>
-      <point x="480" y="688" type="curve" smooth="yes"/>
+      <point x="480" y="688" type="curve"/>
       <point x="480" y="663" type="line" smooth="yes"/>
       <point x="480" y="628"/>
       <point x="500" y="600"/>
-      <point x="560" y="600" type="curve" smooth="yes"/>
     </contour>
     <component base="uni044B"/>
   </outline>

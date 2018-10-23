@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03080304" format="1">
+  <advance width="0"/>
+  <note>
+    dieresismacron
+  </note>
+  <outline>
+    <contour>
+      <point x="140" y="825" type="line"/>
+      <point x="-140" y="825" type="line"/>
+      <point x="-140" y="757" type="line"/>
+      <point x="140" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="-99" y="597" type="curve"/>
+      <point x="-58" y="597"/>
+      <point x="-42" y="617"/>
+      <point x="-42" y="643" type="curve"/>
+      <point x="-42" y="657" type="line" smooth="yes"/>
+      <point x="-42" y="683"/>
+      <point x="-58" y="703"/>
+      <point x="-99" y="703" type="curve"/>
+      <point x="-140" y="703"/>
+      <point x="-156" y="683"/>
+      <point x="-156" y="657" type="curve"/>
+      <point x="-156" y="643" type="line" smooth="yes"/>
+      <point x="-156" y="617"/>
+      <point x="-140" y="597"/>
+    </contour>
+    <contour>
+      <point x="99" y="597" type="curve"/>
+      <point x="140" y="597"/>
+      <point x="156" y="617"/>
+      <point x="156" y="643" type="curve"/>
+      <point x="156" y="657" type="line" smooth="yes"/>
+      <point x="156" y="683"/>
+      <point x="140" y="703"/>
+      <point x="99" y="703" type="curve"/>
+      <point x="58" y="703"/>
+      <point x="42" y="683"/>
+      <point x="42" y="657" type="curve"/>
+      <point x="42" y="643" type="line" smooth="yes"/>
+      <point x="42" y="617"/>
+      <point x="58" y="597"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-17 09:27:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

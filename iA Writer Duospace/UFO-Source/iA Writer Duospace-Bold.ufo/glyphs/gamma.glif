@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="1">
+  <advance width="600"/>
+  <unicode hex="03B3"/>
+  <note>
+    gamma
+  </note>
+  <outline>
+    <contour>
+      <point x="57" y="410" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="-200" type="line"/>
+      <point x="340" y="-200" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="531" y="525" type="line"/>
+      <point x="391" y="525" type="line"/>
+      <point x="315" y="293" type="line"/>
+      <point x="274" y="145" type="line"/>
+      <point x="266" y="145" type="line"/>
+      <point x="233" y="293" type="line"/>
+      <point x="198" y="418" type="line" smooth="yes"/>
+      <point x="175" y="499"/>
+      <point x="138" y="525"/>
+      <point x="60" y="525" type="curve"/>
+      <point x="8" y="525" type="line"/>
+      <point x="8" y="410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 00:02:24 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

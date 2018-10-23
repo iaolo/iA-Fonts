@@ -7,18 +7,18 @@
   </note>
   <outline>
     <contour>
-      <point x="551" y="910" type="line"/>
-      <point x="483" y="949" type="line"/>
       <point x="375" y="783" type="line"/>
       <point x="422" y="755" type="line"/>
+      <point x="551" y="910" type="line"/>
+      <point x="483" y="949" type="line"/>
     </contour>
     <contour>
+      <point x="596" y="698" type="line"/>
+      <point x="207" y="698" type="line"/>
       <point x="90" y="0" type="line"/>
       <point x="172" y="0" type="line"/>
       <point x="277" y="626" type="line"/>
       <point x="584" y="626" type="line"/>
-      <point x="596" y="698" type="line"/>
-      <point x="207" y="698" type="line"/>
     </contour>
   </outline>
   <lib>

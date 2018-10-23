@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03020301" format="1">
+  <advance width="0"/>
+  <note>
+    circumflexacute
+  </note>
+  <outline>
+    <contour>
+      <point x="105" y="735" type="line"/>
+      <point x="154" y="712" type="line"/>
+      <point x="260" y="871" type="line"/>
+      <point x="190" y="905" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="611" type="line"/>
+      <point x="50" y="755" type="line"/>
+      <point x="-50" y="755" type="line"/>
+      <point x="-160" y="611" type="line"/>
+      <point x="-118" y="581" type="line"/>
+      <point x="-1" y="700" type="line"/>
+      <point x="116" y="581" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-17 09:27:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

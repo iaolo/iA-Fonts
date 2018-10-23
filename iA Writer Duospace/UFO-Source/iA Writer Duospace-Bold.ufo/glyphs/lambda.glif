@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambda" format="1">
+  <advance width="600"/>
+  <unicode hex="03BB"/>
+  <note>
+    lambda
+  </note>
+  <outline>
+    <contour>
+      <point x="73" y="625" type="line"/>
+      <point x="159" y="625" type="line"/>
+      <point x="192" y="525" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="221" y="228" type="line"/>
+      <point x="250" y="352" type="line"/>
+      <point x="261" y="352" type="line"/>
+      <point x="289" y="228" type="line"/>
+      <point x="331" y="98" type="line" smooth="yes"/>
+      <point x="355" y="25"/>
+      <point x="388" y="0"/>
+      <point x="464" y="0" type="curve"/>
+      <point x="528" y="0" type="line"/>
+      <point x="528" y="115" type="line"/>
+      <point x="467" y="115" type="line"/>
+      <point x="295" y="642" type="line" smooth="yes"/>
+      <point x="271" y="715"/>
+      <point x="238" y="740"/>
+      <point x="162" y="740" type="curve"/>
+      <point x="73" y="740" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 00:02:24 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psi" format="1">
+  <advance width="900"/>
+  <unicode hex="03C8"/>
+  <note>
+    psi
+  </note>
+  <outline>
+    <contour>
+      <point x="350" y="-12" type="curve"/>
+      <point x="312" y="-200" type="line"/>
+      <point x="389" y="-200" type="line"/>
+      <point x="427" y="-12" type="line"/>
+      <point x="655" y="-12"/>
+      <point x="741" y="48"/>
+      <point x="780" y="240" type="curve"/>
+      <point x="836" y="516" type="line"/>
+      <point x="759" y="516" type="line"/>
+      <point x="705" y="246" type="line" smooth="yes"/>
+      <point x="675" y="96"/>
+      <point x="631" y="57"/>
+      <point x="441" y="57" type="curve"/>
+      <point x="572" y="710" type="line"/>
+      <point x="495" y="710" type="line"/>
+      <point x="364" y="57" type="line"/>
+      <point x="202" y="57"/>
+      <point x="166" y="93"/>
+      <point x="166" y="163" type="curve"/>
+      <point x="166" y="185"/>
+      <point x="167" y="209"/>
+      <point x="176" y="247" type="curve"/>
+      <point x="240" y="516" type="line"/>
+      <point x="153" y="516" type="line"/>
+      <point x="101" y="258" type="line" smooth="yes"/>
+      <point x="93" y="218"/>
+      <point x="90" y="185"/>
+      <point x="90" y="163" type="curve"/>
+      <point x="90" y="61"/>
+      <point x="158" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:36:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

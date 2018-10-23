@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="1">
+  <advance width="600"/>
+  <unicode hex="03A3"/>
+  <note>
+    Sigma
+  </note>
+  <outline>
+    <contour>
+      <point x="37" y="78" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="477" y="0" type="line"/>
+      <point x="491" y="72" type="line"/>
+      <point x="133" y="72" type="line"/>
+      <point x="421" y="349" type="line"/>
+      <point x="240" y="626" type="line"/>
+      <point x="585" y="626" type="line"/>
+      <point x="600" y="698" type="line"/>
+      <point x="167" y="698" type="line"/>
+      <point x="151" y="620" type="line"/>
+      <point x="324" y="354" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:14:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

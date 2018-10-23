@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb.case" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="60" y="935" type="curve"/>
+      <point x="-42" y="935" type="line"/>
+      <point x="-52" y="874" type="line"/>
+      <point x="63" y="874" type="line"/>
+      <point x="-8" y="774" type="line"/>
+      <point x="35" y="747" type="line"/>
+      <point x="75" y="789" type="line" smooth="yes"/>
+      <point x="108" y="823"/>
+      <point x="127" y="853"/>
+      <point x="127" y="883" type="curve"/>
+      <point x="127" y="913"/>
+      <point x="107" y="935"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-17 09:01:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

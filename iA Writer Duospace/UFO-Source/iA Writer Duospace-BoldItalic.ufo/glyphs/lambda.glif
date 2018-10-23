@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambda" format="1">
+  <advance width="600"/>
+  <unicode hex="03BB"/>
+  <note>
+    lambda
+  </note>
+  <outline>
+    <contour>
+      <point x="192" y="628" type="line"/>
+      <point x="278" y="628" type="line"/>
+      <point x="290" y="525" type="line"/>
+      <point x="-2" y="0" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="259" y="218" type="line"/>
+      <point x="313" y="356" type="line"/>
+      <point x="324" y="356" type="line"/>
+      <point x="328" y="218" type="line"/>
+      <point x="344" y="81" type="line" smooth="yes"/>
+      <point x="350" y="31"/>
+      <point x="379" y="0"/>
+      <point x="437" y="0" type="curve"/>
+      <point x="516" y="0" type="line"/>
+      <point x="538" y="112" type="line"/>
+      <point x="474" y="112" type="line"/>
+      <point x="408" y="659" type="line" smooth="yes"/>
+      <point x="402" y="709"/>
+      <point x="373" y="740"/>
+      <point x="315" y="740" type="curve"/>
+      <point x="214" y="740" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:18:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

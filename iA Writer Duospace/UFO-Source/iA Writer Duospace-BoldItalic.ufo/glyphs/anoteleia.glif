@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anoteleia" format="1">
+  <advance width="600"/>
+  <unicode hex="0387"/>
+  <note>
+    anoteleia
+  </note>
+  <outline>
+    <contour>
+      <point x="305" y="357" type="curve"/>
+      <point x="361" y="357"/>
+      <point x="393" y="387"/>
+      <point x="402" y="431" type="curve"/>
+      <point x="405" y="445"/>
+      <point x="409" y="466"/>
+      <point x="409" y="477" type="curve"/>
+      <point x="409" y="506"/>
+      <point x="389" y="537"/>
+      <point x="333" y="537" type="curve"/>
+      <point x="277" y="537"/>
+      <point x="245" y="507"/>
+      <point x="236" y="463" type="curve"/>
+      <point x="233" y="449"/>
+      <point x="229" y="428"/>
+      <point x="229" y="417" type="curve"/>
+      <point x="229" y="388"/>
+      <point x="249" y="357"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:30:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

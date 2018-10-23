@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi" format="1">
+  <advance width="600"/>
+  <unicode hex="03C7"/>
+  <note>
+    chi
+  </note>
+  <outline>
+    <contour>
+      <point x="132" y="516" type="curve"/>
+      <point x="72" y="516" type="line"/>
+      <point x="72" y="446" type="line"/>
+      <point x="141" y="446" type="line"/>
+      <point x="262" y="167" type="line"/>
+      <point x="77" y="-200" type="line"/>
+      <point x="165" y="-200" type="line"/>
+      <point x="305" y="99" type="line"/>
+      <point x="308" y="99" type="line"/>
+      <point x="408" y="-143" type="line" smooth="yes"/>
+      <point x="425" y="-185"/>
+      <point x="446" y="-200"/>
+      <point x="494" y="-200" type="curve"/>
+      <point x="554" y="-200" type="line"/>
+      <point x="554" y="-130" type="line"/>
+      <point x="485" y="-130" type="line"/>
+      <point x="357" y="172" type="line"/>
+      <point x="536" y="516" type="line"/>
+      <point x="448" y="516" type="line"/>
+      <point x="314" y="240" type="line"/>
+      <point x="311" y="240" type="line"/>
+      <point x="218" y="459" type="line" smooth="yes"/>
+      <point x="200" y="502"/>
+      <point x="180" y="516"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 00:02:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

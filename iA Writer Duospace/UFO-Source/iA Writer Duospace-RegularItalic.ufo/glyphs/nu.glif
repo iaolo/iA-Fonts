@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nu" format="1">
+  <advance width="600"/>
+  <unicode hex="03BD"/>
+  <note>
+    nu
+  </note>
+  <outline>
+    <contour>
+      <point x="138" y="448" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="434" y="212"/>
+      <point x="516" y="376"/>
+      <point x="558" y="516" type="curve"/>
+      <point x="480" y="516" type="line"/>
+      <point x="438" y="376"/>
+      <point x="359" y="227"/>
+      <point x="255" y="77" type="curve"/>
+      <point x="250" y="77" type="line"/>
+      <point x="236" y="261" type="line"/>
+      <point x="211" y="456" type="line" smooth="yes"/>
+      <point x="206" y="497"/>
+      <point x="185" y="516"/>
+      <point x="141" y="516" type="curve"/>
+      <point x="98" y="516" type="line"/>
+      <point x="85" y="448" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:18:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

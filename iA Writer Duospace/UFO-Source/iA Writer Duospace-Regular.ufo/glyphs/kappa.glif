@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kappa" format="1">
+  <advance width="600"/>
+  <unicode hex="03BA"/>
+  <note>
+    kappa
+  </note>
+  <outline>
+    <contour>
+      <point x="240" y="246" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="297" y="296" type="line"/>
+      <point x="436" y="446" type="line"/>
+      <point x="495" y="446" type="line"/>
+      <point x="495" y="516" type="line"/>
+      <point x="446" y="516" type="line" smooth="yes"/>
+      <point x="418" y="516"/>
+      <point x="400" y="509"/>
+      <point x="380" y="487" type="curve"/>
+      <point x="227" y="322" type="line"/>
+      <point x="177" y="263" type="line"/>
+      <point x="173" y="263" type="line"/>
+      <point x="173" y="516" type="line"/>
+      <point x="93" y="516" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="173" y="174" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 00:02:24 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

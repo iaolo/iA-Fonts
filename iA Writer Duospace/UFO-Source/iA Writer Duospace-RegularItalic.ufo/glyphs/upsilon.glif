@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilon" format="1">
+  <advance width="600"/>
+  <unicode hex="03C5"/>
+  <note>
+    upsilon
+  </note>
+  <outline>
+    <contour>
+      <point x="167" y="247" type="curve"/>
+      <point x="221" y="516" type="line"/>
+      <point x="144" y="516" type="line"/>
+      <point x="92" y="257" type="line" smooth="yes"/>
+      <point x="84" y="217"/>
+      <point x="80" y="185"/>
+      <point x="80" y="159" type="curve"/>
+      <point x="80" y="55"/>
+      <point x="142" y="-12"/>
+      <point x="246" y="-12" type="curve"/>
+      <point x="370" y="-12"/>
+      <point x="443" y="58"/>
+      <point x="479" y="234" type="curve"/>
+      <point x="536" y="516" type="line"/>
+      <point x="459" y="516" type="line"/>
+      <point x="404" y="240" type="line" smooth="yes"/>
+      <point x="374" y="92"/>
+      <point x="332" y="57"/>
+      <point x="256" y="57" type="curve"/>
+      <point x="190" y="57"/>
+      <point x="156" y="85"/>
+      <point x="156" y="151" type="curve"/>
+      <point x="156" y="185"/>
+      <point x="161" y="215"/>
+    </contour>
+    <contour>
+      <point x="337" y="522" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 07:14:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -4,6 +4,8 @@
   <unicode hex="FB02"/>
   <outline>
     <contour>
+      <point x="31" y="401" type="line"/>
+      <point x="75" y="401" type="line"/>
       <point x="75" y="0" type="line"/>
       <point x="223" y="0" type="line"/>
       <point x="223" y="401" type="line"/>
@@ -16,17 +18,15 @@
       <point x="232" y="740" type="line" smooth="yes"/>
       <point x="125" y="740"/>
       <point x="75" y="678"/>
-      <point x="75" y="591" type="curve" smooth="yes"/>
+      <point x="75" y="591" type="curve"/>
       <point x="75" y="516" type="line"/>
       <point x="31" y="516" type="line"/>
-      <point x="31" y="401" type="line"/>
-      <point x="75" y="401" type="line"/>
     </contour>
     <contour>
-      <point x="387" y="0" type="line"/>
-      <point x="535" y="0" type="line"/>
       <point x="535" y="740" type="line"/>
       <point x="387" y="740" type="line"/>
+      <point x="387" y="0" type="line"/>
+      <point x="535" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

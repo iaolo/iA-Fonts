@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theta" format="1">
+  <advance width="600"/>
+  <unicode hex="03B8"/>
+  <note>
+    theta
+  </note>
+  <outline>
+    <contour>
+      <point x="300" y="752" type="curve"/>
+      <point x="158" y="752"/>
+      <point x="75" y="658"/>
+      <point x="75" y="370" type="curve"/>
+      <point x="75" y="82"/>
+      <point x="158" y="-12"/>
+      <point x="300" y="-12" type="curve"/>
+      <point x="442" y="-12"/>
+      <point x="525" y="82"/>
+      <point x="525" y="370" type="curve"/>
+      <point x="525" y="658"/>
+      <point x="442" y="752"/>
+    </contour>
+    <contour>
+      <point x="161" y="405" type="line"/>
+      <point x="161" y="468" type="line"/>
+      <point x="161" y="625"/>
+      <point x="212" y="683"/>
+      <point x="300" y="683" type="curve"/>
+      <point x="388" y="683"/>
+      <point x="439" y="625"/>
+      <point x="439" y="468" type="curve"/>
+      <point x="439" y="405" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="57" type="curve"/>
+      <point x="212" y="57"/>
+      <point x="161" y="115"/>
+      <point x="161" y="272" type="curve"/>
+      <point x="161" y="335" type="line"/>
+      <point x="439" y="335" type="line"/>
+      <point x="439" y="272" type="line" smooth="yes"/>
+      <point x="439" y="115"/>
+      <point x="388" y="57"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 00:02:24 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

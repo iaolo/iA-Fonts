@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDF.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="uni1FFE.case" xOffset="31"/>
+    <component base="uni1FC0.case" xOffset="-255" yOffset="112"/>
+    <contour>
+      <point x="406" y="698" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 07:25:30 +0000</string>
+    </dict>
+  </lib>
+</glyph>

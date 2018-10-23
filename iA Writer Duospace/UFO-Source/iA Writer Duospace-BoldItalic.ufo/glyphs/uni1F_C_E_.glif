@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FCE" format="1">
+  <advance width="600"/>
+  <unicode hex="1FCE"/>
+  <outline>
+    <component base="uni1FBF" xOffset="-143"/>
+    <component base="uni1FFD" xOffset="128" yOffset="20"/>
+    <contour>
+      <point x="339" y="522" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FFD</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 07:07:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

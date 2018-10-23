@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03080304.ccmp0" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="140" y="995" type="line"/>
+      <point x="-140" y="995" type="line"/>
+      <point x="-140" y="927" type="line"/>
+      <point x="140" y="927" type="line"/>
+    </contour>
+    <contour>
+      <point x="-99" y="767" type="curve"/>
+      <point x="-58" y="767"/>
+      <point x="-42" y="787"/>
+      <point x="-42" y="813" type="curve"/>
+      <point x="-42" y="827" type="line" smooth="yes"/>
+      <point x="-42" y="853"/>
+      <point x="-58" y="873"/>
+      <point x="-99" y="873" type="curve"/>
+      <point x="-140" y="873"/>
+      <point x="-156" y="853"/>
+      <point x="-156" y="827" type="curve"/>
+      <point x="-156" y="813" type="line" smooth="yes"/>
+      <point x="-156" y="787"/>
+      <point x="-140" y="767"/>
+    </contour>
+    <contour>
+      <point x="99" y="767" type="curve"/>
+      <point x="140" y="767"/>
+      <point x="156" y="787"/>
+      <point x="156" y="813" type="curve"/>
+      <point x="156" y="827" type="line" smooth="yes"/>
+      <point x="156" y="853"/>
+      <point x="140" y="873"/>
+      <point x="99" y="873" type="curve"/>
+      <point x="58" y="873"/>
+      <point x="42" y="853"/>
+      <point x="42" y="827" type="curve"/>
+      <point x="42" y="813" type="line" smooth="yes"/>
+      <point x="42" y="787"/>
+      <point x="58" y="767"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-17 09:27:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

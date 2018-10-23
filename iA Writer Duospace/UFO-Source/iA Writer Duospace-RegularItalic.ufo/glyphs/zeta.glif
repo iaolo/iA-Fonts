@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeta" format="1">
+  <advance width="600"/>
+  <unicode hex="03B6"/>
+  <note>
+    zeta
+  </note>
+  <outline>
+    <contour>
+      <point x="579" y="740" type="line"/>
+      <point x="179" y="740" type="line"/>
+      <point x="166" y="672" type="line"/>
+      <point x="339" y="672" type="line"/>
+      <point x="475" y="677" type="line"/>
+      <point x="474" y="672" type="line"/>
+      <point x="253" y="501" type="line" smooth="yes"/>
+      <point x="97" y="380"/>
+      <point x="69" y="275"/>
+      <point x="69" y="184" type="curve"/>
+      <point x="69" y="98"/>
+      <point x="116" y="25"/>
+      <point x="222" y="7" type="curve"/>
+      <point x="343" y="-13" type="line"/>
+      <point x="286" y="-140" type="line"/>
+      <point x="353" y="-168" type="line"/>
+      <point x="404" y="-54" type="line" smooth="yes"/>
+      <point x="414" y="-32"/>
+      <point x="418" y="-16"/>
+      <point x="418" y="0" type="curve"/>
+      <point x="418" y="31"/>
+      <point x="403" y="54"/>
+      <point x="367" y="60" type="curve"/>
+      <point x="239" y="82" type="line" smooth="yes"/>
+      <point x="176" y="93"/>
+      <point x="146" y="134"/>
+      <point x="146" y="184" type="curve"/>
+      <point x="146" y="258"/>
+      <point x="170" y="345"/>
+      <point x="301" y="454" type="curve"/>
+      <point x="566" y="674" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:18:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

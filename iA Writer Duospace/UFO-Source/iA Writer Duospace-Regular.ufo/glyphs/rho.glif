@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rho" format="1">
+  <advance width="600"/>
+  <unicode hex="03C1"/>
+  <note>
+    rho
+  </note>
+  <outline>
+    <contour>
+      <point x="78" y="296" type="curve"/>
+      <point x="78" y="-200" type="line"/>
+      <point x="158" y="-200" type="line"/>
+      <point x="158" y="59" type="line"/>
+      <point x="162" y="59" type="line"/>
+      <point x="189" y="14"/>
+      <point x="243" y="-12"/>
+      <point x="310" y="-12" type="curve"/>
+      <point x="442" y="-12"/>
+      <point x="522" y="89"/>
+      <point x="522" y="262" type="curve"/>
+      <point x="522" y="430"/>
+      <point x="446" y="528"/>
+      <point x="302" y="528" type="curve"/>
+      <point x="154" y="528"/>
+      <point x="78" y="424"/>
+    </contour>
+    <contour>
+      <point x="290" y="60" type="curve"/>
+      <point x="221" y="60"/>
+      <point x="158" y="89"/>
+      <point x="158" y="137" type="curve"/>
+      <point x="158" y="295" type="line" smooth="yes"/>
+      <point x="158" y="398"/>
+      <point x="209" y="456"/>
+      <point x="297" y="456" type="curve"/>
+      <point x="385" y="456"/>
+      <point x="436" y="398"/>
+      <point x="436" y="295" type="curve"/>
+      <point x="436" y="221" type="line" smooth="yes"/>
+      <point x="436" y="118"/>
+      <point x="388" y="60"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 00:02:24 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

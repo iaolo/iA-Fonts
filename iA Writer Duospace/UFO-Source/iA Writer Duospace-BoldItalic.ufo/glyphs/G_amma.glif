@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gamma" format="1">
+  <advance width="600"/>
+  <unicode hex="0393"/>
+  <note>
+    Gamma
+  </note>
+  <outline>
+    <contour>
+      <point x="599" y="698" type="line"/>
+      <point x="152" y="698" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="271" y="570" type="line"/>
+      <point x="573" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:13:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

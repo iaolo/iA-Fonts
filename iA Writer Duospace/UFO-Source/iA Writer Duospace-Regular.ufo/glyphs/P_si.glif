@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psi" format="1">
+  <advance width="900"/>
+  <unicode hex="03A8"/>
+  <note>
+    Psi
+  </note>
+  <outline>
+    <contour>
+      <point x="403" y="203" type="curve"/>
+      <point x="403" y="0" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="487" y="203" type="line"/>
+      <point x="655" y="203"/>
+      <point x="772" y="286"/>
+      <point x="772" y="468" type="curve"/>
+      <point x="772" y="698" type="line"/>
+      <point x="688" y="698" type="line"/>
+      <point x="688" y="468" type="line" smooth="yes"/>
+      <point x="688" y="322"/>
+      <point x="599" y="273"/>
+      <point x="487" y="273" type="curve"/>
+      <point x="487" y="698" type="line"/>
+      <point x="403" y="698" type="line"/>
+      <point x="403" y="273" type="line"/>
+      <point x="291" y="273"/>
+      <point x="202" y="322"/>
+      <point x="202" y="468" type="curve"/>
+      <point x="202" y="698" type="line"/>
+      <point x="118" y="698" type="line"/>
+      <point x="118" y="468" type="line" smooth="yes"/>
+      <point x="118" y="286"/>
+      <point x="235" y="203"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 00:00:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

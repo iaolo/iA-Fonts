@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilontonos" format="1">
+  <advance width="600"/>
+  <unicode hex="03AD"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="tonos" yOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:51:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

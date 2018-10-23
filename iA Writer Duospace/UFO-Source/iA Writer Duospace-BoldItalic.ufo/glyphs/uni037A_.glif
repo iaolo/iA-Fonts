@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni037A" format="1">
+  <advance width="300"/>
+  <unicode hex="037A"/>
+  <outline>
+    <contour>
+      <point x="112" y="-290" type="curve"/>
+      <point x="200" y="-290" type="line"/>
+      <point x="222" y="-178" type="line"/>
+      <point x="127" y="-178" type="line"/>
+      <point x="160" y="-55" type="line"/>
+      <point x="20" y="-55" type="line"/>
+      <point x="-7" y="-148" type="line" smooth="yes"/>
+      <point x="-11" y="-163"/>
+      <point x="-11" y="-181"/>
+      <point x="-11" y="-191" type="curve"/>
+      <point x="-11" y="-257"/>
+      <point x="31" y="-290"/>
+    </contour>
+    <contour>
+      <point x="100" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 07:12:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

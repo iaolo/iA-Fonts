@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDD.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="uni1FFE" xOffset="-340" yOffset="40"/>
+    <component base="uni1FEF" xOffset="-120" yOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FEF</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 07:26:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

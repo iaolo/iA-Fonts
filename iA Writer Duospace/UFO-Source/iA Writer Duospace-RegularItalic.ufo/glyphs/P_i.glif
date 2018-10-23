@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pi" format="1">
+  <advance width="600"/>
+  <unicode hex="03A0"/>
+  <note>
+    Pi
+  </note>
+  <outline>
+    <contour>
+      <point x="623" y="698" type="line"/>
+      <point x="135" y="698" type="line"/>
+      <point x="9" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="202" y="626" type="line"/>
+      <point x="527" y="626" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="496" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-23 03:39:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

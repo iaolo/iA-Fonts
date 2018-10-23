@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0162" format="1">
+  <advance width="600"/>
+  <unicode hex="0162"/>
+  <outline>
+    <contour>
+      <point x="328" y="-54" type="line"/>
+      <point x="172" y="-54" type="line"/>
+      <point x="119" y="-269" type="line"/>
+      <point x="207" y="-269" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="0" type="line"/>
+      <point x="427" y="576" type="line"/>
+      <point x="629" y="576" type="line"/>
+      <point x="649" y="698" type="line"/>
+      <point x="97" y="698" type="line"/>
+      <point x="77" y="576" type="line"/>
+      <point x="279" y="576" type="line"/>
+      <point x="183" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-11-17 09:01:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>
