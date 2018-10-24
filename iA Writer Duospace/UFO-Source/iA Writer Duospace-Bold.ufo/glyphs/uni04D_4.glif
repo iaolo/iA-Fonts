@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04D4" format="1">
-  <advance width="899"/>
+  <advance width="900"/>
   <unicode hex="04D4"/>
   <note>
     uni04D4
@@ -34,7 +34,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-24 03:06:35 +0000</string>
+      <string>2018-10-24 04:38:15 +0000</string>
     </dict>
   </lib>
 </glyph>
