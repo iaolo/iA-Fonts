@@ -4,7 +4,11 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>o@ia.net%/perthousand ©aeoeaæ/oe/aeacute/oe Æ/AEacute E/OE l/uni04D4/uni04D5</string>
+		<string>ABCDEFGHIJKLMNOPQRSTUVWXZY
+abcdefghijklmnopqrstuvwxzy
+ia@ia.net%/perthousand ©aeoeaæ/oe/aeacute/oe Æ/AEacute E/OE l/uni04D4/ellipsis 
+
+</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

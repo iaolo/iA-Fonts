@@ -4,7 +4,8 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>@%/perthousand ©æ/aeacute/oe Æ/AEacute E/OE/uni04D4/uni04D5</string>
+		<string>@%/perthousand ©æ/aeacute/oe Æ/AEacute E/OE/uni04D4/uni04D5 
+Hey/ellipsis  How</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
