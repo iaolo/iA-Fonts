@@ -4,7 +4,7 @@
   <unicode hex="1FF9"/>
   <outline>
     <component base="Omicron"/>
-    <component base="uni1FFD.case" xOffset="-300" yOffset="-160"/>
+    <component base="uni1FFD.case" xOffset="71" yOffset="6"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +28,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-23 00:02:24 +0000</string>
+      <string>2018-10-23 16:52:03 +0000</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

@@ -3,7 +3,7 @@
   <advance width="600"/>
   <unicode hex="1FCF"/>
   <outline>
-    <component base="uni1FBF"/>
+    <component base="uni1FBF" xOffset="-50"/>
     <component base="uni1FC0" xOffset="82" yOffset="267"/>
     <contour>
       <point x="339" y="522" type="move" name="_top"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-23 07:08:38 +0000</string>
+      <string>2018-10-24 00:52:41 +0000</string>
     </dict>
   </lib>
 </glyph>

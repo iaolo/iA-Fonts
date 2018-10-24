@@ -1,37 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="1">
-  <advance width="600"/>
+  <advance width="899"/>
   <unicode hex="00C6"/>
   <outline>
-    <contour>
-      <point x="175" y="168" type="line"/>
-      <point x="279" y="168" type="line"/>
-      <point x="279" y="0" type="line"/>
-      <point x="572" y="0" type="line"/>
-      <point x="572" y="111" type="line"/>
-      <point x="417" y="111" type="line"/>
-      <point x="417" y="298" type="line"/>
-      <point x="562" y="298" type="line"/>
-      <point x="562" y="409" type="line"/>
-      <point x="417" y="409" type="line"/>
-      <point x="417" y="587" type="line"/>
-      <point x="572" y="587" type="line"/>
-      <point x="572" y="698" type="line"/>
-      <point x="155" y="698" type="line"/>
-      <point x="-4" y="0" type="line"/>
-      <point x="142" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="197" y="279" type="line"/>
-      <point x="257" y="594" type="line"/>
-      <point x="279" y="594" type="line"/>
-      <point x="279" y="279" type="line"/>
-    </contour>
+    <component base="uni04D4"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-17 09:27:18 +0000</string>
+      <string>2018-10-24 03:07:51 +0000</string>
     </dict>
   </lib>
 </glyph>

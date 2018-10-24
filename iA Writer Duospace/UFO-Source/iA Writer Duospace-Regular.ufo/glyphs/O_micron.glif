@@ -7,11 +7,14 @@
   </note>
   <outline>
     <component base="O"/>
+    <contour>
+      <point x="303" y="704" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-23 00:02:24 +0000</string>
+      <string>2018-10-24 01:18:52 +0000</string>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.6</real>

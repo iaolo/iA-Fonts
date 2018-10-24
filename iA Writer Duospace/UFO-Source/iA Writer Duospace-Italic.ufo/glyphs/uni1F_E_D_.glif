@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FED" format="1">
+  <advance width="600"/>
+  <unicode hex="1FED"/>
+  <outline>
+    <contour>
+      <point x="308" y="772" type="line"/>
+      <point x="392" y="595" type="line"/>
+      <point x="435" y="607" type="line"/>
+      <point x="372" y="790" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="618" type="curve"/>
+      <point x="297" y="618"/>
+      <point x="316" y="635"/>
+      <point x="321" y="665" type="curve"/>
+      <point x="323" y="676"/>
+      <point x="324" y="681"/>
+      <point x="324" y="686" type="curve"/>
+      <point x="324" y="709"/>
+      <point x="307" y="721"/>
+      <point x="287" y="721" type="curve"/>
+      <point x="260" y="721"/>
+      <point x="241" y="704"/>
+      <point x="236" y="674" type="curve"/>
+      <point x="234" y="663"/>
+      <point x="233" y="658"/>
+      <point x="233" y="653" type="curve"/>
+      <point x="233" y="630"/>
+      <point x="250" y="618"/>
+    </contour>
+    <contour>
+      <point x="492" y="618" type="curve"/>
+      <point x="519" y="618"/>
+      <point x="538" y="635"/>
+      <point x="543" y="665" type="curve"/>
+      <point x="545" y="676"/>
+      <point x="546" y="681"/>
+      <point x="546" y="686" type="curve"/>
+      <point x="546" y="709"/>
+      <point x="529" y="721"/>
+      <point x="509" y="721" type="curve"/>
+      <point x="482" y="721"/>
+      <point x="463" y="704"/>
+      <point x="458" y="674" type="curve"/>
+      <point x="456" y="663"/>
+      <point x="455" y="658"/>
+      <point x="455" y="653" type="curve"/>
+      <point x="455" y="630"/>
+      <point x="472" y="618"/>
+    </contour>
+    <contour>
+      <point x="339" y="522" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-24 00:53:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

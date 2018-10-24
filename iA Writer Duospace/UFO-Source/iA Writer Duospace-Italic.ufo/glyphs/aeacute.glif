@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aeacute" format="1">
+  <advance width="900"/>
+  <unicode hex="01FD"/>
+  <outline>
+    <contour>
+      <point x="443" y="613" type="line"/>
+      <point x="490" y="585" type="line"/>
+      <point x="619" y="740" type="line"/>
+      <point x="551" y="779" type="line"/>
+    </contour>
+    <component base="ae"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-10-24 03:36:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -3,7 +3,7 @@
   <advance width="600"/>
   <unicode hex="1FDB"/>
   <outline>
-    <component base="uni1FFD.case" xOffset="-130" yOffset="-120"/>
+    <component base="uni1FFD.case" xOffset="198"/>
     <component base="Iota" xOffset="270"/>
   </outline>
   <lib>
@@ -14,21 +14,13 @@
           <key>alignment</key>
           <integer>-1</integer>
           <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>uni1FFD.case</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
           <integer>1</integer>
           <key>name</key>
           <string>Iota</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-23 08:51:48 +0000</string>
+      <string>2018-10-24 01:38:08 +0000</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

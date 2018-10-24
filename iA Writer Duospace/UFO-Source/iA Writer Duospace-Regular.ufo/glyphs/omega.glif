@@ -53,13 +53,16 @@
       <point x="490" y="98"/>
     </contour>
     <contour>
-      <point x="449" y="522" type="move" name="top"/>
+      <point x="452" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="452" y="516" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-23 00:02:25 +0000</string>
+      <string>2018-10-23 16:10:02 +0000</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

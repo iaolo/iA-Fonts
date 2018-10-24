@@ -3,28 +3,31 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="526" y="645" type="qcurve"/>
-      <point x="526" y="604" type="line"/>
-      <point x="591" y="611"/>
-      <point x="647" y="677"/>
-      <point x="647" y="735" type="qcurve"/>
-      <point x="647" y="762"/>
-      <point x="617" y="800"/>
-      <point x="591" y="800" type="qcurve"/>
-      <point x="567" y="800"/>
-      <point x="534" y="776"/>
-      <point x="534" y="747" type="qcurve"/>
-      <point x="534" y="721"/>
-      <point x="567" y="695"/>
-      <point x="591" y="695" type="qcurve"/>
-      <point x="591" y="677"/>
-      <point x="564" y="647"/>
+      <point x="-44" y="645" type="qcurve"/>
+      <point x="-44" y="604" type="line"/>
+      <point x="21" y="611"/>
+      <point x="77" y="677"/>
+      <point x="77" y="735" type="qcurve"/>
+      <point x="77" y="762"/>
+      <point x="47" y="800"/>
+      <point x="21" y="800" type="qcurve"/>
+      <point x="-3" y="800"/>
+      <point x="-36" y="776"/>
+      <point x="-36" y="747" type="qcurve"/>
+      <point x="-36" y="721"/>
+      <point x="-3" y="695"/>
+      <point x="21" y="695" type="qcurve"/>
+      <point x="21" y="677"/>
+      <point x="-6" y="647"/>
+    </contour>
+    <contour>
+      <point x="312" y="698" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-22 23:54:07 +0000</string>
+      <string>2018-10-23 16:27:02 +0000</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

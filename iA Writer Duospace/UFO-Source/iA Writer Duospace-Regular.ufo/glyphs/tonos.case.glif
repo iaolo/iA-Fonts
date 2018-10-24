@@ -6,16 +6,19 @@
   </note>
   <outline>
     <contour>
-      <point x="336" y="585" type="line"/>
-      <point x="388" y="769" type="line"/>
-      <point x="308" y="780" type="line"/>
-      <point x="279" y="592" type="line"/>
+      <point x="16" y="585" type="line"/>
+      <point x="68" y="769" type="line"/>
+      <point x="-12" y="780" type="line"/>
+      <point x="-41" y="592" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="698" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-23 00:02:25 +0000</string>
+      <string>2018-10-23 16:24:54 +0000</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

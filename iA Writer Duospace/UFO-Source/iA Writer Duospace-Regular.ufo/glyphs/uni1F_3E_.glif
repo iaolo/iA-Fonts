@@ -3,7 +3,7 @@
   <advance width="600"/>
   <unicode hex="1F3E"/>
   <outline>
-    <component base="uni1FCF.case" xOffset="-100"/>
+    <component base="uni1FCF.case" xOffset="188"/>
     <component base="Iota" xOffset="270"/>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-23 08:49:31 +0000</string>
+      <string>2018-10-24 01:38:08 +0000</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

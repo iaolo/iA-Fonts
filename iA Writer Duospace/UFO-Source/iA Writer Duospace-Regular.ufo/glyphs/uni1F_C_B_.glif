@@ -4,7 +4,7 @@
   <unicode hex="1FCB"/>
   <outline>
     <component base="Eta" xOffset="300"/>
-    <component base="uni1FFD.case" xOffset="-130" yOffset="-170"/>
+    <component base="uni1FEF.case" xScale="-1" xOffset="210"/>
   </outline>
   <lib>
     <dict>
@@ -24,11 +24,11 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>uni1FFD.case</string>
+          <string>uni1FEF.case</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-23 00:02:24 +0000</string>
+      <string>2018-10-24 01:18:52 +0000</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>

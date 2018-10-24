@@ -4,24 +4,13 @@
   <unicode hex="1FA9"/>
   <outline>
     <component base="uni2126" xOffset="10"/>
-    <component base="uni1FFE.case" xOffset="-270"/>
-    <component base="uni1FBE" xOffset="587"/>
+    <component base="uni1FFE.case" xOffset="-4"/>
+    <component base="uni1FBE" xOffset="584" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>uni1FFE.case</string>
-        </dict>
-      </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-10-23 08:52:16 +0000</string>
+      <string>2018-10-24 02:28:17 +0000</string>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
     </dict>
