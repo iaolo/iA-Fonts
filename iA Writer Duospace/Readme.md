@@ -1,4 +1,4 @@
-iA Writer Duospace comes bundled with [iA Writer for Mac and iOS](https://ia.net/writer/buy/)
+iA Writer Duospace comes bundled with [iA Writer for Android, Windows, Mac iPadOS, and iOS](https://ia.net/writer/buy/)
 
 For in depth explanation of iA Writer Duospace please read our [blog entry](http://ia.net/topics/in-search-of-the-perfect-writing-font/)
 
