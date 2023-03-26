@@ -1,4 +1,4 @@
-iA Writer Duo comes bundled with [iA Writer for Mac and iOS](https://ia.net/writer/)
+iA Writer Duo comes bundled with [iA Writer for Android, Windows, Mac iPadOs and iOS](https://ia.net/writer/)
 
 For in depth explanation of iA Writer Mono, Duo, and Quattro please read our [blog entry on Duospace](http://ia.net/topics/in-search-of-the-perfect-writing-font/) and on [iA Writer Mono, Duo, and Quattro](https://ia.net/writer/topics/a-typographic-christmas)
 
