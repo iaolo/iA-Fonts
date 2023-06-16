@@ -2,7 +2,7 @@
 
 The iA Writer fonts comes bundled with [iA Writer for for Android, Windows, Mac, iPadOS and iOS](https://ia.net/writer/)
 
-For in depth explanation of iA Writer Mono, Duo, and Quattro please read our [blog entry on Duospace](http://ia.net/topics/in-search-of-the-perfect-writing-font/) and on [iA Writer Mono, Duo, and Quattro](https://ia.net/writer/topics/a-typographic-christmas)
+For in depth explanation of iA Writer Mono, Duo, and Quattro please read our [blog entry on Duospace](http://ia.net/topics/in-search-of-the-perfect-writing-font/) and on [iA Writer Mono, Duo, and Quattro](https://ia.net/topics/a-typographic-christmas)
 
 This is a modification of IBM's Plex font. 
 The upstream project is [here](https://github.com/IBM/type)
