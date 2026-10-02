@@ -1,13 +1,19 @@
 # iA-Fonts
 
-The iA Writer fonts comes bundled with [iA Writer for for Android, Windows, Mac, iPadOS and iOS](https://ia.net/writer/)
+# iA-Fonts
 
-For in depth explanation of iA Writer Mono, Duo, and Quattro please read our [blog entry on Duospace](http://ia.net/topics/in-search-of-the-perfect-writing-font/) and on [iA Writer Mono, Duo, and Quattro](https://ia.net/topics/a-typographic-christmas)
+The iA Writer fonts are bundled with [iA Writer for Android, Windows, macOS, iPadOS, and iOS](https://ia.net/writer/). iA Writer is the only text editor with which we approve bundling these fonts.
 
-This is a modification of IBM's Plex font. 
-The upstream project is [here](https://github.com/IBM/type)
-Please read the licensing file before working with it. 
+Our usage guidelines are:
 
-If you fork or use our fonts, please reference iA Writer clearly. Use them creatively.
+1. Do not create text editors that bundle our fonts or use them as their default typefaces. This includes minimalist text editors.
+2. Do not distribute renamed versions of our fonts with only minor changes.
+3. If you want a similar typeface for your editor, use [IBM Plex](https://github.com/IBM/type).
+4. You may install iA Writer fonts as custom fonts for personal use in other text editors. Do not redistribute them with those editors.
+5. Do not distribute plugins, themes, or other products that imitate iA Writer, whether paid or free.
 
-Don't be a copycat. With or without the fonts, do not clone our products or our website. Selling our work under your name is blatantly disrespectful and criminal. Distributing knockoffs of our work for free doesn't make you Robin Hood either. We do not approve of free plugins or themes for other apps and other counterfeits that imitate our products. They're poor quality, they undermine our business, and they openly violate our copyright. Due to their poor quality, they tarnish our reputation. They're unethical, illegal, and lame. 
+If you fork or use our fonts outside text editors, clearly credit iA Writer.  If you want our entire philosophy of creativity and copying, read our article on [copycats](https://ia.net/topics/copycats-and-other-monsters)
+
+For background on iA Writer Mono, Duo, and Quattro, read our articles on [Duospace](http://ia.net/topics/in-search-of-the-perfect-writing-font/) and [iA Writer Mono, Duo, and Quattro](https://ia.net/topics/a-typographic-christmas).
+
+These fonts are modified versions of IBM Plex. The upstream project is available [here](https://github.com/IBM/type). Please read the license file before using, modifying, or distributing the fonts.
